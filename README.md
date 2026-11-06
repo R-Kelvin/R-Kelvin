@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ruan👋<br>
 **`💻 Dev BackEnd em formação`** <br><br>
-Me chamo Ruan Kelvin, atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento BackEnd, explorando novas tecnologias e transformando ideias em projetos. Gosto de enfrentar desafios, aprender coisas novas e buscar soluções que tornem meu código cada vez melhor.
+Me chamo Ruan Kelvin, atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento BackEnd, explorando novas tecnologias e transformando ideias em projetos. Gosto de enfrentar desafios, aprender coisas novas e buscar soluções que tornem meu código cada vez melhor.
 
 
 ### Linguagens e Tecnologias
